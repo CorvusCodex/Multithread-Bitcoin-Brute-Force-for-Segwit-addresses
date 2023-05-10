@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin-segwit-brute-force",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.0",
+    "blessed": "^0.1.81",
+    "coinkey": "^3.0.0",
+    "tiny-secp256k1": "^2.2.1"
+  }
+}
