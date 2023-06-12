@@ -25,6 +25,9 @@ This is a Node.js script that uses multiple worker processes to generate random 
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
 >ETH: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
 
+## Check out Bitcoin Brute-Force Project
+https://github.com/CorvusCodex/Multithread-Bitcoin-Brute-Force
+
 ## Disclaimer
 
 The code within this repository comes with no guarantee, the use of this code is your responsibility. I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY. The chances of finding a match are extremely low and it is not recommended to use this script for any illegal or unethical activities.
