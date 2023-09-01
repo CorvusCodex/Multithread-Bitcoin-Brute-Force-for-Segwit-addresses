@@ -17,6 +17,13 @@ This is a Node.js script that uses multiple worker processes to generate random 
 
 Keep in mind that a Windows app won’t speed up searching or guarantee success.
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/corvuscodex"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="corvuscodex" /></a></p><br><br>
+
+<br><br>
+Donate: <br>
+BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3 <br>
+ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0
 
 Check out my Bitcoin Brute-Force calculator
 https://corvuscodex.github.io/Bitcoin-Brute-Force-Calculator-Website/
