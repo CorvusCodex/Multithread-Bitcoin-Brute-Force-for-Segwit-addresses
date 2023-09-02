@@ -43,6 +43,9 @@ https://corvuscodex.github.io/Bitcoin-Brute-Force-Calculator-Website/
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
 >ETH: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
 
+## Check out my Ethereum Brute-Force Project
+https://github.com/CorvusCodex/Multithread-Ethereum-Brute-Force
+
 ## Check out Bitcoin Brute-Force Project
 https://github.com/CorvusCodex/Multithread-Bitcoin-Brute-Force
 
