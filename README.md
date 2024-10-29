@@ -6,8 +6,7 @@
 This is a Node.js script that uses multiple worker processes to generate random private keys for Bitcoin Segwit addresses are also known as Bech32 wallets and check if they match any of the Segwit addresses are also known as Bech32 addresses in a file named `data.txt`
 
 ## For people without technical experience you can buy the compiled application for windows from here:
-[[https://www.buymeacoffee.com/CorvusCodex/e/142988](https://www.buymeacoffee.com/CorvusCodex/e/147789)](https://ko-fi.com/s/36307ffb03)
-
+https://ko-fi.com/s/36307ffb03
 Keep in mind that a Windows app won’t speed up searching or guarantee success.
 
 ## Requirements
