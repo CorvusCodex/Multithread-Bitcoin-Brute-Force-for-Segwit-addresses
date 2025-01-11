@@ -10,6 +10,7 @@ process.title = "Bitcoin Bruteforce";
 //BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3
 //ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0
 //Buy me a coffee: Ko-fi: https://ko-fi.com/s/36307ffb03
+//Ko-fi: https://ko-fi.com/s/36307ffb03
 
 
 // Importing required modules
