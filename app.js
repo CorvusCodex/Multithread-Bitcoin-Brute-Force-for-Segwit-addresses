@@ -2,7 +2,7 @@
 
 process.title = "Multithread Bitcoin Bruteforce by Corvus Codex";
 
-//Creaded by: Corvus Codex
+//Created by: Corvus Codex
 //Github: https://github.com/CorvusCodex/
 //Licence : MIT License
 
