@@ -104,7 +104,6 @@ function generate() {
  fs.writeFileSync('./match.txt', successString, (err) => {
  if (err) throw err;
  })
- // Exiting the process
  process.exit();
  }
 }
